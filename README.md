@@ -1,5 +1,5 @@
 
-# 🤖 GenAI-IRS: Intelligent Document Question Answering System
+# 🤖 GenAI-IRS: Intelligent Document Q&A System
 
 A powerful, LLM-backed information retrieval system built using **LangChain**, **FAISS**, and **Streamlit**. GenAI-IRS enables users to upload and interact with PDF documents using natural language queries. With semantic search and metadata-aware responses, it delivers contextually accurate answers that are traceable to their sources.
 
