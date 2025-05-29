@@ -44,7 +44,7 @@ def handle_file_upload():
 
         with col1:  # GitHub icon
             st.markdown(
-                "[![GitHub](https://img.icons8.com/ios-glyphs/40/github.png)](https://github.com/cdacpranav/GenAI_IRS)",
+                "[![GitHub](https://img.icons8.com/ios-glyphs/40/github.png)](https://github.com/pranavharke/GenAI_IRS)",
                 unsafe_allow_html=True)
 
         with col2:  # LinkedIn icon
